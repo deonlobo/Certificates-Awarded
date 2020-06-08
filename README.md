@@ -1,2 +1,5 @@
 # Certificates-Awarded
-![](WebDevelopment.jpg)
+<ol>
+  <li><h2>web Development</h2></li>
+  <img src ="WebDevelopment.jpg" width="500">
+</ol>
