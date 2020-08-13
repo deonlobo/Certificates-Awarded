@@ -1,7 +1,7 @@
 # Certificates-Awarded
 <ol>
   <li><h2>Blockchain Internship</h2></li>
-  <img src ="Blockchain.pdf" width="500">
+  <img src ="Blockchain.png" width="500">
 
   <li><h2>The Complete Android N Developer Course</h2></li>
   <img src ="AndroidDevelopment.jpg" width="500">
