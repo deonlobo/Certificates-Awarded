@@ -20,5 +20,8 @@
   
   <li><h2>Fundamentals Of Digital Marketing</h2></li>
   <img src ="FundamentalsOfDigitalMarketing.jpg" width="500">
+  
+  <li><h2>Fundamentals Of Digital Marketing</h2></li>
+  <img src ="CodeTrek.jpg" width="500">
  
 </ol>
