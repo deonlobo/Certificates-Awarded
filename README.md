@@ -21,7 +21,7 @@
   <li><h2>Fundamentals Of Digital Marketing</h2></li>
   <img src ="FundamentalsOfDigitalMarketing.jpg" width="500">
   
-  <li><h2>Fundamentals Of Digital Marketing</h2></li>
+  <li><h2>Final Round Of CodeTrek</h2></li>
   <img src ="CodeTrek.jpg" width="500">
  
 </ol>
