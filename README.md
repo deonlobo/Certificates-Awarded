@@ -21,6 +21,9 @@
   <li><h2>Java Level 2</h2></li>
   <img src ="CCA-Certificate-Java Level 2.jpg" width="500">
   
+  <li><h2>Cloud Computing Workshop</h2></li>
+  <img src ="CSIcloud.jpg" width="500">
+  
   <li><h2>Fundamentals Of Digital Marketing</h2></li>
   <img src ="FundamentalsOfDigitalMarketing.jpg" width="500">
   
