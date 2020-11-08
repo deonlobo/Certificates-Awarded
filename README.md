@@ -1,7 +1,13 @@
 # Certificates-Awarded
 <ol>
+  <li><h2>Research Intern-3.months</h2></li>
+  <img src ="TvishInternship.jpg" height="500">
+  
   <li><h2>Program Committe Head</h2></li>
   <img src ="CSIdeon.jpg" height="500">
+  
+  <li><h2Industrial Internship Program on Deep Learning using CNN and Matlab</h2></li>
+  <img src ="DeepLearningInternship.jpg" height="500">
   
   <li><h2>Blockchain Internship</h2></li>
   <img src ="Blockchain.png" height="500">
