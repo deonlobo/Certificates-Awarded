@@ -1,7 +1,7 @@
 # Certificates-Awarded
 <ol>
   <li><h2>Engineer Intern-3.5 months</h2></li>
-  <img src ="CBTInternship.jpg" height="500">
+  <img src ="CBTInternshipCertificate.jpg" height="500">
   
   <li><h2>Research Intern-3.months</h2></li>
   <img src ="TvishInternship.jpg" height="500">
