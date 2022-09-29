@@ -1,5 +1,11 @@
 # Certificates-Awarded
 <ol>
+  <li><h2>Award For Resilience</h2></li>
+  <img src ="CertificateOfResilience.jpg" height="500">
+  
+  <li><h2>Team Excellence Award</h2></li>
+  <img src ="TeamExcellenceAward.jpg" height="500">
+  
   <li><h2>Engineer Intern-3.5 months</h2></li>
   <img src ="CBTInternshipCertificate.jpg" height="500">
   
