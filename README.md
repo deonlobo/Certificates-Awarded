@@ -1,5 +1,8 @@
 # Certificates-Awarded
 <ol>
+   <li><h2>AWS Certified Cloud Practitioner certificate</h2></li>
+  <img src ="aws_cloud_practitioner.png" height="500">
+  
   <li><h2>Award For Resilience</h2></li>
   <img src ="CertificateOfResilience.jpg" height="500">
   
