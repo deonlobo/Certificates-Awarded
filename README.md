@@ -1,7 +1,10 @@
 # Certificates-Awarded
 <ol>
-   <li><h2>AWS Certified Cloud Practitioner certificate</h2></li>
+  <li><h2>AWS Certified Cloud Practitioner certificate</h2></li>
   <a href="https://aw.certmetrics.com/amazon/public/verification.aspx" target="_blank"><img src ="aws_cloud_practitioner.png" height="500"></a>
+
+  <li><h2>Unix Essential Training</h2></li>
+  <a href="[https://aw.certmetrics.com/amazon/public/verification.aspx](https://www.linkedin.com/learning/certificates/b6500e2a860f86236013ba663da898ea30b9a05507cc268e1ce11160965cc258)" target="_blank"><img src ="unix.png" height="500"></a>
   
   <li><h2>Award For Resilience</h2></li>
   <img src ="CertificateOfResilience.jpg" height="500">
