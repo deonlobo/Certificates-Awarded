@@ -3,7 +3,7 @@
   <li><h2>AWS Certified Cloud Practitioner certificate</h2></li>
   <a href="https://aw.certmetrics.com/amazon/public/verification.aspx" target="_blank"><img src ="aws_cloud_practitioner.png" height="500"></a>
 
-  <li><h2>Unix Essential Training</h2></li>
+  <li><h2>NLP for Machine Learning</h2></li>
   <a href="https://www.linkedin.com/learning/certificates/5fce9c3b00118a864d9eef51e0976f87e0e0b906cea15fadc6b3a379fce0abcb" target="_blank"><img src ="nlp_essential_train.png" height="500"></a>
   
   <li><h2>Unix Essential Training</h2></li>
