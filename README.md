@@ -4,6 +4,9 @@
   <a href="https://aw.certmetrics.com/amazon/public/verification.aspx" target="_blank"><img src ="aws_cloud_practitioner.png" height="500"></a>
 
   <li><h2>Unix Essential Training</h2></li>
+  <a href="https://www.linkedin.com/learning/certificates/5fce9c3b00118a864d9eef51e0976f87e0e0b906cea15fadc6b3a379fce0abcb" target="_blank"><img src ="nlp_essential_train.png" height="500"></a>
+  
+  <li><h2>Unix Essential Training</h2></li>
   <a href="https://www.linkedin.com/learning/certificates/b6500e2a860f86236013ba663da898ea30b9a05507cc268e1ce11160965cc258" target="_blank"><img src ="unix.png" height="500"></a>
   
   <li><h2>Award For Resilience</h2></li>
